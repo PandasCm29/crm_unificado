@@ -1,0 +1,117 @@
+/* Estilos adicionales */
+.datepicker {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23666666'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z' /%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.5rem center;
+    background-size: 1.5em 1.5em;
+    padding-right: 2.5rem;
+}
+    
+    /* Animación para el modal */
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+    
+    
+    /* Estilos para la tabla responsiva */
+    @media (max-width: 768px) {
+      .overflow-x-auto {
+        -webkit-overflow-scrolling: touch;
+      }
+    
+      table th,
+      table td {
+        white-space: nowrap;
+      }
+    
+    } 
+
+    /* Estilo para los botones con hover */
+button {
+    transition: all 0.3s ease-in-out; 
+    border-radius: 12px; 
+    padding: 10px 20px; 
+    font-size: 1rem; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button:hover {
+    transform: translateY(-4px); 
+    background-color: #ec9306; 
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15); 
+}
+
+/* Ajustes de espaciado de los botones */
+#btnAgregarCliente, .bg-gray-700, .bg-blue-600 {
+    margin-top: 20px; 
+    margin-left: 10px; 
+    margin-right: 10px;
+}
+
+/* Diseño responsive y espaciado */
+@media (max-width: 768px) {
+    .flex-wrap {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .bg-primary {
+        padding: 10px 20px;
+        margin-top: 10px;
+    }
+}
+
+bg-primary {
+    background-color: #ec9306; 
+    color: white;
+}
+
+/* Botón de "Registros Eliminados" */
+.bg-gray-700 {
+    background-color: #333; 
+    color: white;
+}
+
+/* Botón de "Actualizar Resultado" */
+.bg-blue-600 {
+    background-color: #1e3a8a; 
+    color: white;
+}
+
+/* Color de fondo al pasar el mouse */
+button:hover.bg-primary {
+    background-color: #e78002; 
+}
+
+button:hover.bg-gray-700 {
+    background-color: #444; 
+}
+
+button:hover.bg-blue-600 {
+    background-color: #1d3b6d; 
+}
+
+
+button svg {
+    margin-right: 8px; 
+    width: 18px; 
+    height: 18px;
+}
+
+/* Asegura que el botón se quede en su lugar sin moverse */
+button {
+    white-space: nowrap;  /* Evita que el texto dentro del botón se divida */
+}       
+
+#button-search {
+    white-space: nowrap;  /* Evita que el texto se divida en varias líneas */
+}
+

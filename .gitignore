@@ -1,0 +1,10 @@
+# Dependencias
+node_modules/
+vendor/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de sistema
+.DS_Store

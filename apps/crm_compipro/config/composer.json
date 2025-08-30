@@ -1,0 +1,7 @@
+{
+    "name": "user/config",
+    "require": {
+        "vlucas/phpdotenv": "5.4",
+        "guzzlehttp/guzzle": "7.4"
+    }
+}

@@ -1,0 +1,104 @@
+[20-Aug-2025 15:20:00 America/Lima] PHP Warning:  Undefined array key "NOTION_TOKEN" in /home/compihost/public_html/crm_compipro/config/database.php on line 42
+[20-Aug-2025 15:20:00 America/Lima] PHP Warning:  Undefined array key "NOTION_DATABASE_ID_CLIENTES" in /home/compihost/public_html/crm_compipro/config/database.php on line 46
+[20-Aug-2025 15:20:00 America/Lima] PHP Warning:  Undefined array key "NOTION_VERSION" in /home/compihost/public_html/crm_compipro/config/database.php on line 53
+[20-Aug-2025 15:20:00 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function request() on null in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php:209
+Stack trace:
+#0 /home/compihost/public_html/crm_compipro/controller/cliente/notion/sync_to_notion.php(147): ClienteNotion->syncToNotion(true)
+#1 {main}
+  thrown in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php on line 209
+[20-Aug-2025 15:20:05 America/Lima] PHP Warning:  Undefined array key "NOTION_TOKEN" in /home/compihost/public_html/crm_compipro/config/database.php on line 42
+[20-Aug-2025 15:20:05 America/Lima] PHP Warning:  Undefined array key "NOTION_DATABASE_ID_CLIENTES" in /home/compihost/public_html/crm_compipro/config/database.php on line 46
+[20-Aug-2025 15:20:05 America/Lima] PHP Warning:  Undefined array key "NOTION_VERSION" in /home/compihost/public_html/crm_compipro/config/database.php on line 53
+[20-Aug-2025 15:20:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function request() on null in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php:209
+Stack trace:
+#0 /home/compihost/public_html/crm_compipro/controller/cliente/notion/sync_to_notion.php(147): ClienteNotion->syncToNotion(true)
+#1 {main}
+  thrown in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php on line 209
+[22-Aug-2025 10:52:58 America/Lima] PHP Warning:  Undefined array key "NOTION_TOKEN" in /home/compihost/public_html/crm_compipro/config/database.php on line 42
+[22-Aug-2025 10:52:58 America/Lima] PHP Warning:  Undefined array key "NOTION_DATABASE_ID_CLIENTES" in /home/compihost/public_html/crm_compipro/config/database.php on line 46
+[22-Aug-2025 10:52:58 America/Lima] PHP Warning:  Undefined array key "NOTION_VERSION" in /home/compihost/public_html/crm_compipro/config/database.php on line 53
+[22-Aug-2025 10:52:58 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function request() on null in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php:209
+Stack trace:
+#0 /home/compihost/public_html/crm_compipro/controller/cliente/notion/sync_to_notion.php(147): ClienteNotion->syncToNotion(true)
+#1 {main}
+  thrown in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php on line 209
+[22-Aug-2025 10:53:27 America/Lima] PHP Warning:  Undefined array key "NOTION_TOKEN" in /home/compihost/public_html/crm_compipro/config/database.php on line 42
+[22-Aug-2025 10:53:27 America/Lima] PHP Warning:  Undefined array key "NOTION_DATABASE_ID_CLIENTES" in /home/compihost/public_html/crm_compipro/config/database.php on line 46
+[22-Aug-2025 10:53:27 America/Lima] PHP Warning:  Undefined array key "NOTION_VERSION" in /home/compihost/public_html/crm_compipro/config/database.php on line 53
+[22-Aug-2025 10:53:27 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function request() on null in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php:209
+Stack trace:
+#0 /home/compihost/public_html/crm_compipro/controller/cliente/notion/sync_to_notion.php(147): ClienteNotion->syncToNotion(true)
+#1 {main}
+  thrown in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php on line 209
+[22-Aug-2025 10:53:36 America/Lima] PHP Warning:  Undefined array key "NOTION_TOKEN" in /home/compihost/public_html/crm_compipro/config/database.php on line 42
+[22-Aug-2025 10:53:36 America/Lima] PHP Warning:  Undefined array key "NOTION_DATABASE_ID_CLIENTES" in /home/compihost/public_html/crm_compipro/config/database.php on line 46
+[22-Aug-2025 10:53:36 America/Lima] PHP Warning:  Undefined array key "NOTION_VERSION" in /home/compihost/public_html/crm_compipro/config/database.php on line 53
+[22-Aug-2025 10:53:36 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function request() on null in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php:209
+Stack trace:
+#0 /home/compihost/public_html/crm_compipro/controller/cliente/notion/sync_to_notion.php(147): ClienteNotion->syncToNotion(true)
+#1 {main}
+  thrown in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php on line 209
+[25-Aug-2025 11:41:24 America/Lima] PHP Warning:  Undefined array key "NOTION_TOKEN" in /home/compihost/public_html/crm_compipro/config/database.php on line 42
+[25-Aug-2025 11:41:24 America/Lima] PHP Warning:  Undefined array key "NOTION_DATABASE_ID_CLIENTES" in /home/compihost/public_html/crm_compipro/config/database.php on line 46
+[25-Aug-2025 11:41:24 America/Lima] PHP Warning:  Undefined array key "NOTION_VERSION" in /home/compihost/public_html/crm_compipro/config/database.php on line 53
+[25-Aug-2025 11:41:24 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function request() on null in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php:209
+Stack trace:
+#0 /home/compihost/public_html/crm_compipro/controller/cliente/notion/sync_to_notion.php(147): ClienteNotion->syncToNotion(true)
+#1 {main}
+  thrown in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php on line 209
+[25-Aug-2025 11:41:31 America/Lima] PHP Warning:  Undefined array key "NOTION_TOKEN" in /home/compihost/public_html/crm_compipro/config/database.php on line 42
+[25-Aug-2025 11:41:31 America/Lima] PHP Warning:  Undefined array key "NOTION_DATABASE_ID_CLIENTES" in /home/compihost/public_html/crm_compipro/config/database.php on line 46
+[25-Aug-2025 11:41:31 America/Lima] PHP Warning:  Undefined array key "NOTION_VERSION" in /home/compihost/public_html/crm_compipro/config/database.php on line 53
+[25-Aug-2025 11:41:31 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function request() on null in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php:209
+Stack trace:
+#0 /home/compihost/public_html/crm_compipro/controller/cliente/notion/sync_to_notion.php(147): ClienteNotion->syncToNotion(true)
+#1 {main}
+  thrown in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php on line 209
+[25-Aug-2025 11:41:36 America/Lima] PHP Warning:  Undefined array key "NOTION_TOKEN" in /home/compihost/public_html/crm_compipro/config/database.php on line 42
+[25-Aug-2025 11:41:36 America/Lima] PHP Warning:  Undefined array key "NOTION_DATABASE_ID_CLIENTES" in /home/compihost/public_html/crm_compipro/config/database.php on line 46
+[25-Aug-2025 11:41:36 America/Lima] PHP Warning:  Undefined array key "NOTION_VERSION" in /home/compihost/public_html/crm_compipro/config/database.php on line 53
+[25-Aug-2025 11:41:36 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function request() on null in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php:209
+Stack trace:
+#0 /home/compihost/public_html/crm_compipro/controller/cliente/notion/sync_to_notion.php(147): ClienteNotion->syncToNotion(true)
+#1 {main}
+  thrown in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php on line 209
+[25-Aug-2025 11:41:49 America/Lima] PHP Warning:  Undefined array key "NOTION_TOKEN" in /home/compihost/public_html/crm_compipro/config/database.php on line 42
+[25-Aug-2025 11:41:49 America/Lima] PHP Warning:  Undefined array key "NOTION_DATABASE_ID_CLIENTES" in /home/compihost/public_html/crm_compipro/config/database.php on line 46
+[25-Aug-2025 11:41:49 America/Lima] PHP Warning:  Undefined array key "NOTION_VERSION" in /home/compihost/public_html/crm_compipro/config/database.php on line 53
+[25-Aug-2025 11:41:49 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function request() on null in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php:209
+Stack trace:
+#0 /home/compihost/public_html/crm_compipro/controller/cliente/notion/sync_to_notion.php(147): ClienteNotion->syncToNotion(true)
+#1 {main}
+  thrown in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php on line 209
+[25-Aug-2025 11:41:53 America/Lima] PHP Warning:  Undefined array key "NOTION_TOKEN" in /home/compihost/public_html/crm_compipro/config/database.php on line 42
+[25-Aug-2025 11:41:53 America/Lima] PHP Warning:  Undefined array key "NOTION_DATABASE_ID_CLIENTES" in /home/compihost/public_html/crm_compipro/config/database.php on line 46
+[25-Aug-2025 11:41:53 America/Lima] PHP Warning:  Undefined array key "NOTION_VERSION" in /home/compihost/public_html/crm_compipro/config/database.php on line 53
+[25-Aug-2025 11:41:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function request() on null in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php:209
+Stack trace:
+#0 /home/compihost/public_html/crm_compipro/controller/cliente/notion/sync_to_notion.php(147): ClienteNotion->syncToNotion(true)
+#1 {main}
+  thrown in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php on line 209
+[25-Aug-2025 11:42:09 America/Lima] PHP Warning:  Undefined array key "NOTION_TOKEN" in /home/compihost/public_html/crm_compipro/config/database.php on line 42
+[25-Aug-2025 11:42:09 America/Lima] PHP Warning:  Undefined array key "NOTION_DATABASE_ID_CLIENTES" in /home/compihost/public_html/crm_compipro/config/database.php on line 46
+[25-Aug-2025 11:42:09 America/Lima] PHP Warning:  Undefined array key "NOTION_VERSION" in /home/compihost/public_html/crm_compipro/config/database.php on line 53
+[25-Aug-2025 11:42:09 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function request() on null in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php:209
+Stack trace:
+#0 /home/compihost/public_html/crm_compipro/controller/cliente/notion/sync_to_notion.php(147): ClienteNotion->syncToNotion(true)
+#1 {main}
+  thrown in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php on line 209
+[28-Aug-2025 09:30:03 America/Lima] PHP Warning:  Undefined array key "NOTION_TOKEN" in /home/compihost/public_html/crm_compipro/config/database.php on line 42
+[28-Aug-2025 09:30:03 America/Lima] PHP Warning:  Undefined array key "NOTION_DATABASE_ID_CLIENTES" in /home/compihost/public_html/crm_compipro/config/database.php on line 46
+[28-Aug-2025 09:30:03 America/Lima] PHP Warning:  Undefined array key "NOTION_VERSION" in /home/compihost/public_html/crm_compipro/config/database.php on line 53
+[28-Aug-2025 09:30:03 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function request() on null in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php:209
+Stack trace:
+#0 /home/compihost/public_html/crm_compipro/controller/cliente/notion/sync_to_notion.php(147): ClienteNotion->syncToNotion(true)
+#1 {main}
+  thrown in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php on line 209
+[28-Aug-2025 09:33:46 America/Lima] PHP Warning:  Undefined array key "NOTION_TOKEN" in /home/compihost/public_html/crm_compipro/config/database.php on line 42
+[28-Aug-2025 09:33:46 America/Lima] PHP Warning:  Undefined array key "NOTION_DATABASE_ID_CLIENTES" in /home/compihost/public_html/crm_compipro/config/database.php on line 46
+[28-Aug-2025 09:33:46 America/Lima] PHP Warning:  Undefined array key "NOTION_VERSION" in /home/compihost/public_html/crm_compipro/config/database.php on line 53
+[28-Aug-2025 09:33:46 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function request() on null in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php:209
+Stack trace:
+#0 /home/compihost/public_html/crm_compipro/controller/cliente/notion/sync_to_notion.php(147): ClienteNotion->syncToNotion(true)
+#1 {main}
+  thrown in /home/compihost/public_html/crm_compipro/models/notion/ClienteNotion.php on line 209
